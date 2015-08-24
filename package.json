@@ -1,6 +1,6 @@
 {
   "name": "react-bootstrap-prompt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "prompt dialog for react with bootstrap modal.",
   "main": "index.js",
   "scripts": {
@@ -32,10 +32,10 @@
     "webpack-stream": "^2.1.0"
   },
   "dependencies": {
-    "alt": "^0.17.1",
-    "alt-connect": "^1.0.0",
-    "es6-react-mixins": "^0.1.8",
-    "react": "^0.13.3",
-    "react-bootstrap": "^0.24.5"
+    "alt": ">=0.17.1",
+    "alt-connect": ">=1.0.0",
+    "es6-react-mixins": ">=0.1.8",
+    "react": ">=0.13.3",
+    "react-bootstrap": ">=0.22.4"
   }
 }
